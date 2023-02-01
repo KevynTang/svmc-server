@@ -1,0 +1,4 @@
+# please do not modify this
+region-per-side: 512
+enabled-worlds:
+  - world
