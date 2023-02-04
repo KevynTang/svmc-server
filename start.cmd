@@ -1,2 +1,2 @@
-..\jdk\bin\java.exe -jar server.jar --nogui
+..\jre\bin\java.exe -jar server.jar --nogui
 pause

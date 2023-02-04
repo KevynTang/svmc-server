@@ -19,4 +19,9 @@ version_history.json
 
 
 /plugins/WorldEdit
+/plugins/Essentials/userdata
+/plugins/Essentials/userdata-npc-backup
+/plugins/Essentials/warps
+luckperms-h2.mv.db
+
 server.jar
