@@ -12,6 +12,7 @@ crash-reports
 .console_history
 usercache.json
 version_history.json
+ops.json
 
 /proxy/proxy.jar
 /proxy/lang
