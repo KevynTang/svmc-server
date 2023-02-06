@@ -18,7 +18,6 @@ ops.json
 /proxy/lang
 /proxy/forwarding.secret
 
-
 /plugins/WorldEdit
 /plugins/Essentials/userdata
 /plugins/Essentials/userdata-npc-backup
