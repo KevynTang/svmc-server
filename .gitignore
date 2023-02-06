@@ -23,6 +23,9 @@ ops.json
 /plugins/Essentials/userdata
 /plugins/Essentials/userdata-npc-backup
 /plugins/Essentials/warps
+/plugins/LuckPerms/libs
+/plugins/LuckPerms/translations
+
 luckperms-h2.mv.db
 
 server.jar
