@@ -18,11 +18,13 @@ ops.json
 /proxy/lang
 /proxy/forwarding.secret
 
-
 /plugins/WorldEdit
 /plugins/Essentials/userdata
 /plugins/Essentials/userdata-npc-backup
 /plugins/Essentials/warps
+/plugins/LuckPerms/libs
+/plugins/LuckPerms/translations
+
 luckperms-h2.mv.db
 
 server.jar
